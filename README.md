@@ -20,7 +20,7 @@
 
 ```typescript
 const khurram = {
-  title: "Flutter Developer | S.E Student",
+  title: "Software Engineering Student",
   location: "Islamabad, Pakistan",
   stack: {
     languages: ["Dart", "Python", "Oracle SQL"],
